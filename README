@@ -1,0 +1,3 @@
+A 2048 in Javascript. Still have a few bugs I have to fix: refresh the page twice if you want the sounds effect (when you make a 256, 512 or 1024 tile, win or loose)
+
+Un 2048 en Javascript. Il y a encore quelques bugs à corriger: rafraîchissez la page 2 fois si vous souhaitez avoir les sons (quand vous créez une tuile de 256, 512, 1024, gagnez ou perdez la partie)
